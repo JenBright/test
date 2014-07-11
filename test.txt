@@ -1,4 +1,4 @@
-conflict
+conflict a
 changed test
 
 push conf a
