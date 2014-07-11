@@ -1,2 +1,2 @@
-conflict
+conflict b
 changed test
