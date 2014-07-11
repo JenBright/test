@@ -1,2 +1,6 @@
-conflict b
+
+conflict b and a
+
 changed test
+
+push conf a
